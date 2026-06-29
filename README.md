@@ -1,23 +1,16 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<h1>Hi 🌸, I'm Ines Amami</h1>
+<h1 align="center" style="color:#c49bbb;">Hi 🌸, I'm Ines Amami</h1>
 
-<h3>A passionate Junior QA Engineer & Frontend Developer</h3>
+<p align="center" style="color:#a07090; font-size:18px;">A passionate Junior QA Engineer &amp; Frontend Developer</p>
 
-<!-- Soft avatar ring (replace URL with your actual avatar) -->
-<br/>
-
-<!-- Typing animation -->
-<a href="https://portfolio-ines.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=22&pause=1200&color=C49BBB&center=true&vCenter=true&width=500&lines=ISTQB+Certified+Tester+%F0%9F%8C%B8;Frontend+Developer+%E2%80%94+React+%2B+Vite;Quality+is+a+habit%2C+not+an+act." alt="Typing SVG" />
-</a>
-
-<br/><br/>
 
 <!-- Soft badge row -->
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%B8%20Portfolio-portfolio--ines.vercel.app-e8c9d8?style=for-the-badge&labelColor=f5eaf2)](https://portfolio-ines.vercel.app)
+&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%A6%8B%20LinkedIn-Connect-c4adc4?style=for-the-badge&labelColor=f0e6f0)](https://www.linkedin.com/in/ines-amami-302576235/)
+&nbsp;&nbsp;
 [![ISTQB](https://img.shields.io/badge/%E2%9C%94%EF%B8%8F%20ISTQB-Certified%20v4-d4b8d4?style=for-the-badge&labelColor=ede0ed)](https://www.istqb.org)
 
 </div>
@@ -83,18 +76,6 @@
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Ines-Amami&theme=rose_pine&background=fdf6fd&ring=c49bbb&fire=a07090&currStreakLabel=a07090&sideLabels=a07090&dates=c49bbb&border=e8d0e8&stroke=e8d0e8&border_radius=12" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🌼 &nbsp; Pinned Highlights &nbsp; 🌼
-
-*See my pinned repositories below — each one has a detailed README.*
-
-[![Portfolio Repo](https://img.shields.io/badge/%F0%9F%92%BC%20Portfolio%20Site-React%20%2B%20Vite%20%2B%20Framer%20Motion-e8c9d8?style=for-the-badge)](https://github.com/Ines-Amami?tab=repositories)
 
 </div>
 

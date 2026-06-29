@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=160&section=header&text=Ines%20%E2%80%94%20QA%20%26%20Frontend&fontSize=38&fontColor=f8f0f5&fontAlignY=45&desc=Testing%20with%20intention.%20Building%20with%20care.&descAlignY=68&descSize=15&descColor=e8d5e8" />
+<h1>Hi 🌸, I'm Ines Amami</h1>
+
+<h3>A passionate Junior QA Engineer & Frontend Developer</h3>
 
 <!-- Soft avatar ring (replace URL with your actual avatar) -->
 <br/>
@@ -15,7 +17,7 @@
 
 <!-- Soft badge row -->
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%B8%20Portfolio-portfolio--ines.vercel.app-e8c9d8?style=for-the-badge&labelColor=f5eaf2)](https://portfolio-ines.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%A6%8B%20LinkedIn-Connect-c4adc4?style=for-the-badge&labelColor=f0e6f0)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%A6%8B%20LinkedIn-Connect-c4adc4?style=for-the-badge&labelColor=f0e6f0)](https://www.linkedin.com/in/ines-amami-302576235/)
 [![ISTQB](https://img.shields.io/badge/%E2%9C%94%EF%B8%8F%20ISTQB-Certified%20v4-d4b8d4?style=for-the-badge&labelColor=ede0ed)](https://www.istqb.org)
 
 </div>
@@ -74,13 +76,13 @@
 
 ### 🌸 &nbsp; GitHub at a Glance &nbsp; 🌸
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&bg_color=fdf6fd&title_color=a0728a&text_color=6a4a6a&icon_color=c49bbb&border_color=e8d0e8&border_radius=12" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ines-Amami&show_icons=true&theme=rose_pine&bg_color=fdf6fd&title_color=a0728a&text_color=6a4a6a&icon_color=c49bbb&border_color=e8d0e8&border_radius=12&cache_seconds=1800" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&bg_color=fdf6fd&title_color=a0728a&text_color=6a4a6a&border_color=e8d0e8&border_radius=12" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ines-Amami&layout=compact&theme=rose_pine&bg_color=fdf6fd&title_color=a0728a&text_color=6a4a6a&border_color=e8d0e8&border_radius=12&cache_seconds=1800" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=fdf6fd&color=a07090&line=c49bbb&point=8a5a7a&area=true&area_color=f0dced&border_radius=12" width="90%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ines-Amami&theme=rose_pine&background=fdf6fd&ring=c49bbb&fire=a07090&currStreakLabel=a07090&sideLabels=a07090&dates=c49bbb&border=e8d0e8&stroke=e8d0e8&border_radius=12" />
 
 </div>
 
@@ -92,7 +94,7 @@
 
 *See my pinned repositories below — each one has a detailed README.*
 
-[![Portfolio Repo](https://img.shields.io/badge/%F0%9F%92%BC%20Portfolio%20Site-React%20%2B%20Vite%20%2B%20Framer%20Motion-e8c9d8?style=for-the-badge)](https://github.com/YOUR_USERNAME/portfolio)
+[![Portfolio Repo](https://img.shields.io/badge/%F0%9F%92%BC%20Portfolio%20Site-React%20%2B%20Vite%20%2B%20Framer%20Motion-e8c9d8?style=for-the-badge)](https://github.com/Ines-Amami?tab=repositories)
 
 </div>
 
@@ -102,6 +104,6 @@
 
 *"The quality of your tests is the quality of your confidence."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=90&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8a7ab5,50:b892c2,100:d4a8c7&height=90&section=footer" />
 
 </div>

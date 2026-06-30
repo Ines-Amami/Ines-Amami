@@ -3,7 +3,7 @@
 <!-- Animated header banner -->
 <h1 align="center" style="color:#c49bbb;">Hi 🌸, I'm Ines Amami</h1>
 
-<p align="center" style="color:#a07090; font-size:18px;">A passionate Junior QA Engineer &amp; Frontend Developer</p>
+<p align="center" style="color:#a07090; font-size:250px;">A passionate Junior QA Engineer &amp; Frontend Developer</p>
 
 <br/><br/>
 

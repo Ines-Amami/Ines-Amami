@@ -5,6 +5,7 @@
 
 <p align="center" style="color:#a07090; font-size:18px;">A passionate Junior QA Engineer &amp; Frontend Developer</p>
 
+<br/><br/>
 
 <!-- Soft badge row -->
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%B8%20Portfolio-portfolio--ines.vercel.app-e8c9d8?style=for-the-badge&labelColor=f5eaf2)](https://portfolio-ines.vercel.app)
@@ -69,15 +70,26 @@
 
 ### 🌸 &nbsp; GitHub at a Glance &nbsp; 🌸
 
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ines-Amami&show_icons=true&theme=rose_pine&bg_color=fdf6fd&title_color=a0728a&text_color=6a4a6a&icon_color=c49bbb&border_color=e8d0e8&border_radius=12&cache_seconds=1800" />
-&nbsp;
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ines-Amami&layout=compact&theme=rose_pine&bg_color=fdf6fd&title_color=a0728a&text_color=6a4a6a&border_color=e8d0e8&border_radius=12&cache_seconds=1800" />
+<table width="100%" border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ines-Amami&show_icons=true&hide=stars,prs,issues,contribs&theme=rose_pine&bg_color=fdf6fd&title_color=a0728a&text_color=6a4a6a&icon_color=c49bbb&border_color=e8d0e8&border_radius=12&cache_seconds=1800&rank_icon=percentile" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ines-Amami&layout=compact&theme=rose_pine&bg_color=fdf6fd&title_color=a0728a&text_color=6a4a6a&border_color=e8d0e8&border_radius=12&cache_seconds=1800" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Ines-Amami&theme=rose_pine&background=fdf6fd&ring=c49bbb&fire=a07090&currStreakLabel=a07090&sideLabels=a07090&dates=c49bbb&border=e8d0e8&stroke=e8d0e8&border_radius=12" />
 
+
+
 </div>
+
+
 
 ---
 
